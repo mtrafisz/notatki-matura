@@ -1,18 +1,18 @@
 # Lektury do powtórzenia
 
-- [Pieśń o Rolandzie](Pieśń o Rolandzie.md)
+- [Pieśń o Rolandzie]("Pieśń%20o%20Rolandzie.md)
 
-- [Kronika Polska](Kronika Polska.md)
+- [Kronika Polska](Kronika%20Polska.md)
 
-- [Boska Komedia](Boska Komedia.md)
+- [Boska Komedia](Boska%20Komedia.md)
 
-- [Kazania Sejmowe](Kazania Sejmowe.md)
+- [Kazania Sejmowe](Kazania%20Sejmowe.md)
 
 - [Skąpiec](Skąpiec.md)
 
-- [Konrad Wallenrod](Konrad Wallenrod.md)
+- [Konrad Wallenrod](Konrad%20Wallenrod.md)
 
-- [Pan Tadeusz](Pan Tadeusz.md)
+- [Pan Tadeusz](Pan%20Tadeusz.md)
 
 - [Potop](Potop.md)
 
@@ -20,7 +20,7 @@
 
 - [Balladyna](Balladyna.md)
 
-- kordian  dużo opracowań
+- kordian dużo opracowań
 
 - lalka dużo opracowań
 
