@@ -28,7 +28,7 @@
 
 - wesele - streszczenie. Ważne, ale pokurwione
 
-- Przedwiośnie - streszczenie bo pamiętam
+- [Przedwiośnie](Przedwiośnie.md)
 
 - opowiadania obozowe - można przeczytać, krótkie i ważne
 
