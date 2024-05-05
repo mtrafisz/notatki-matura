@@ -1,26 +1,26 @@
 # Lektury do powtórzenia
 
-- [Pieśń o Rolandzie]("Piesn%20o%20Rolandzie.md)
+- [Pieśń o Rolandzie](lektury/Piesn%20o%20Rolandzie.md)
 
-- [Kronika Polska](Kronika%20Polska.md)
+- [Kronika Polska](lektury/Kronika%20Polska.md)
 
-- [Boska Komedia](Boska%20Komedia.md)
+- [Boska Komedia](lektury/Boska%20Komedia.md)
 
-- [Kazania Sejmowe](Kazania%20Sejmowe.md)
+- [Kazania Sejmowe](lektury/Kazania%20Sejmowe.md)
 
-- [Skąpiec](Skąpiec.md)
+- [Skąpiec](lektury/Skąpiec.md)
 
-- [Konrad Wallenrod](Konrad%20Wallenrod.md)
+- [Konrad Wallenrod](lektury/Konrad%20Wallenrod.md)
 
-- [Pan Tadeusz](Pan%20Tadeusz.md)
+- [Pan Tadeusz](lektury/Pan%20Tadeusz.md)
 
-- [Potop](Potop.md)
+- [Potop](lektury/Potop.md)
 
-- [Dziady](Dziady.md)
+- [Dziady](lektury/Dziady.md)
 
-- [Balladyna](Balladyna.md)
+- [Balladyna](lektury/Balladyna.md)
 
-- [Kordian](Kordian.md)
+- [Kordian](lektury/Kordian.md)
 
 - lalka dużo opracowań
 
@@ -28,7 +28,7 @@
 
 - wesele - streszczenie. Ważne, ale pokurwione
 
-- [Przedwiośnie](Przedwiośnie.md)
+- [Przedwiośnie](lektury/Przedwiośnie.md)
 
 - opowiadania obozowe - można przeczytać, krótkie i ważne
 
@@ -41,3 +41,5 @@
 - 1984 - tematy, fabuła bez znaczenia
 
 - tango - streszczenie
+
+- Romeo i Julia
