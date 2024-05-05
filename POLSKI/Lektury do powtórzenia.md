@@ -20,7 +20,7 @@
 
 - [Balladyna](Balladyna.md)
 
-- kordian dużo opracowań
+- [Kordian](Kordian.md)
 
 - lalka dużo opracowań
 
