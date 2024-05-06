@@ -28,25 +28,36 @@
 ## Renesans
 
 - Epoka Rozumu
+
 - Antropocentryzm - wzorem do naśladowania był humanista - *"Nic, co ludzkie, nie jest mi obce"*
+
 - Jan Kochanowski:
-    - Treny:
+  
+  - Treny:
+    
     > "Kupić by cię, mądrości, za drogie pieniądze"
-
+    
     > "Orszulo moja wdzięczna, gdzieś mi sie podziała?"
-
+    
     > "Żałość moja długo w noc oczu mi nie dała / Zamknąć i zemdlonego upokoić ciała."
-
-    - "O żywocie ludzkim" - vanitas, wszystko przemija.
-    - Pieśni - bóg architektem świata
+  
+  - "O żywocie ludzkim" - vanitas, wszystko przemija.
+  
+  - Pieśni - bóg architektem świata
+    
     > "nie porzucaj nadzieje"
-
+    
     > "Nową przypowieść Polak sobie kupi / Że i przed szkodą, i po szkodzie głupi."
-
+    
     > "Czego chcesz od nas, Panie, za twe hojne dary?"
-    - *Odprawa Posłów Greckich* - wpływ złego zarządzania na państwo.
+  
+  - *Odprawa Posłów Greckich* - wpływ złego zarządzania na państwo.
+
 - Fascynacja antykiem
+
 - Filozofia: epikureizm, stoicyzm
+
+- Makbet - femme fatal
 
 ## Barok
 
@@ -63,8 +74,8 @@
 
 - Epoka Rozumu
 - Ignacy Krasicki:
-    - Satyry
-    - Bajki
+  - Satyry
+  - Bajki
 - Filozofia: krytycyzm, racjonalizm, empiryzm, sensualizm, deizm, ateizm, utylitaryzm, humanitaryzm
 
 ## Romantyzm
@@ -72,16 +83,43 @@
 - Epoka Uczucia
 - Bohater romantyczny - samobójca, nieszczęśliwa miłość, wrażliwy, idealistyczny, samotny, niezrozumiały
 - Adam Mickiewicz:
-    - Romantyczność
+  - Romantyczność
+    
     > Czucie i wiara silniej mówi do mnie, / Niż mędrca szkiełko i oko.
-    - [Dziady](lektury/Dziady.md)
-    - [Pan Tadeusz](lektury/Pan%20Tadeusz.md)
-    - [Konrad Wallenrod](lektury/Konrad%20Wallenrod.md)
+  - [Dziady](lektury/Dziady.md)
+  - [Pan Tadeusz](lektury/Pan%20Tadeusz.md)
+  - [Konrad Wallenrod](lektury/Konrad%20Wallenrod.md)
 - Juliusz Słowacki:
-    - [Kordian](lektury/Kordian.md)
-    - [Balladyna](lektury/Balladyna.md)
+  - [Kordian](lektury/Kordian.md)
+  - [Balladyna](lektury/Balladyna.md)
 - *"Miej serce i patrzaj w serce"*
 - Fascynacja Folklorem, naturą, historią, orientem
 - Ludowość, Mesjanizm
 
 ## Pozytywizm
+
+- Epoka Rozumu
+- Scjentyzm, utylitaryzm
+- Agnostycyzm
+- Praca organiczna, na rzecz społeczeństwa
+- Racjonalizm
+- [Lalka](lektury/Lalka.md)
+- [Zbrodnia i Kara](lektury/Zbrodnia%20i%20Kara.md)
+- Chłopii
+- Mendel Gdański
+- Realizm, naturalizm
+- Emancypacja, równouprawnienie
+
+## Młoda Polska
+
+- Epoka chuj wie czego
+- Dekadentyzm, Katastrofizm, neo-romantyzm
+- Artur Schopenhauer - istotą ludzkiej egzystencji jest bezrozumny popęd, którego
+  nigdy nie można zaspokoić
+- Fryderyk Nietzsche - Boga nie ma. Jednostka wyjątkowa, silna (siła biologiczna i duchowa)
+  ma prawo zniszczyć wszelkie normy (Tak jak w zbrodni i karze)
+- [Wesele](lektury/Wesele.md)
+- Chłopii
+- Femme Fatale
+
+## Dalej nie można rozróżnić co jest co.

@@ -22,7 +22,7 @@
 
 - [Kordian](lektury/Kordian.md)
 
-- lalka dużo opracowań
+- [Lalka](lektury/Lalka.md)
 
 - zbrodnia i kara - można film
 
