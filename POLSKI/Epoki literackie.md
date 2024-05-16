@@ -81,19 +81,30 @@
 ## Romantyzm
 
 - Epoka Uczucia
+
 - Bohater romantyczny - samobójca, nieszczęśliwa miłość, wrażliwy, idealistyczny, samotny, niezrozumiały
+
 - Adam Mickiewicz:
+  
   - Romantyczność
     
     > Czucie i wiara silniej mówi do mnie, / Niż mędrca szkiełko i oko.
+  
   - [Dziady](lektury/Dziady.md)
+  
   - [Pan Tadeusz](lektury/Pan%20Tadeusz.md)
+  
   - [Konrad Wallenrod](lektury/Konrad%20Wallenrod.md)
+
 - Juliusz Słowacki:
+  
   - [Kordian](lektury/Kordian.md)
   - [Balladyna](lektury/Balladyna.md)
+
 - *"Miej serce i patrzaj w serce"*
+
 - Fascynacja Folklorem, naturą, historią, orientem
+
 - Ludowość, Mesjanizm
 
 ## Pozytywizm

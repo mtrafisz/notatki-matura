@@ -69,3 +69,9 @@ Najważniejsze pierdolety z tych omamów:
   > ***Plwajmy na tę skorupę i zstąpmy do głębi!.***
 
 - Rollisonowie - Ślepa matka i syn, który jest więziony i torturowany w carskim więzieniu. Matka chce dostać się do syna, uwolić go, syn jest jej jedynym opiekunem. Rollison wyskoczył przez okno, ale przeżył.
+
+- Doktora pierdolnął piorun
+
+- Doktor przewiduje Konradowi daleką drogę.
+
+- JAKIEŚ DZIADY, JAKIŚ USTĘP, KONIEC

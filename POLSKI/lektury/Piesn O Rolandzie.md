@@ -2,13 +2,13 @@
 
 Roland - dowódca wojsk Francuskich
 
-Nie chce wzywć posiłków - straciłby honor
+Nie chce wezwać posiłków - straciłby honor
 
 Jest bardzo dzielny (głupi)
 
 Rzuca się do walki w obronie Francji i Chrześcijaństwa
 
-Giną w wlace z niezliczonymi wrogami, honorowo
+Giną w walce z niezliczonymi wrogami, honorowo
 
 Nie poddaje się nawet w obliczu śmierci, do końca zachowując honor.
 

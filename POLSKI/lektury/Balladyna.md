@@ -6,9 +6,9 @@
 
 - Pustelnik - Król Popiel III, zdradzony i wygnany przez swojego brata.
 
-- Grabiec - ukochany Goplany, Goplana zamienia go w wierzbę na jeden dzień. Następnie, chcąc uczynić go królem, daje mu koronę Popiela III. Jest zamordowany przez Balladynę, by odebraćmu koronę.
+- Grabiec - ukochany Goplany, Goplana zamienia go w wierzbę na jeden dzień. Następnie, chcąc uczynić go królem, daje mu koronę Popiela III. Jest zamordowany przez Balladynę, by odebrać mu koronę.
 
-- Goplana - nimfa, która przez intrygę spowodowała spotkanie Kirkora i Balladyny. Przeklina Balladynę czerwoną plamą na bani XD.
+- Goplana - nimfa, która przez intrygę spowodowała spotkanie Kirkora i Balladyny. Przeklina Balladynę czerwoną plamą na bani XD. Pod koniec książki spierdala gdzieś-tam.
 
 - Balladyna
 
@@ -41,5 +41,7 @@
 - Trzy "zagatki kryminalne" - otrucie Kostryna, Zajebanie Aliny i Wypierdolenie Matki
 
 - Wdowa zdycha na torturach XDDDD
+
+- Trzy wyroki - winny, winny, winny. Kara - śmierć.
 
 - BALLADYNE PIERDOLNĄŁ PIORUN XDDDDDDD

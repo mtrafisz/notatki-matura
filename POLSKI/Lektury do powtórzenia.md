@@ -26,7 +26,7 @@
 
 - zbrodnia i kara - można film
 
-- wesele - streszczenie. Ważne, ale pokurwione
+- [Wesele](lektury/Wesele.md)
 
 - [Przedwiośnie](lektury/Przedwiośnie.md)
 

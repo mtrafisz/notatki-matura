@@ -4,7 +4,7 @@
 
 Piotr Skarga zarzuca szlachcie:
 
-- Odrzucenie wiary, lub odwrotnie - odrzucienie mądrości
+- Odrzucenie wiary, lub odwrotnie - odrzucenie mądrości
 
 - Osłabianie władzy królewskiej
 

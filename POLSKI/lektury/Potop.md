@@ -34,4 +34,8 @@
 
 - Bitwa o klasztor częstochowski. Kmicic wypierdala w powietrze armatę i dostaje się do niewoli.
 
-- 
+- Kmicic ratuje króla z zasadzki.
+
+- Kmicic łazi w kółko ze swoimi kozakami, rozpierdala wszystkich
+
+- Oleńka wstępuje do klasztoru.

@@ -52,7 +52,7 @@ Zaścianek Dobrzyński
 
 - Polowanie na Niedźwiedzia
 
-- Kłutnia na objedzie
+- Kłutnia na objedzie - Hrabia i Gerwazy nakurwiają się ze Soplicami.
 
 - Spotkanie w domu Macieja Nad Macieje 
 
